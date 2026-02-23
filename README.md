@@ -31,6 +31,3 @@ I’m a Cloud Engineer with a strong focus on Microsoft Azure, working primarily
 
 ### 📫 How to reach me
 - GitHub Issues or Discussions on my repositories
-
-### ⚡ Fun fact
-I enjoy breaking down complex Azure architectures into clear, manageable concepts.
