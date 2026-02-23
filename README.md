@@ -1,6 +1,5 @@
-## Hi there 👋
-
-I’m a Cloud Engineer with a strong focus on **Microsoft Azure**, working mainly on **enterprise-scale environments** for regulated industries like banking and insurance.
+## Hi, I’m Marco Kraft 👋
+I’m a Cloud Engineer with a strong focus on Microsoft Azure, working primarily in enterprise-scale, regulated environments such as banking and insurance
 
 ### 🔭 I’m currently working on
 - Azure Landing Zones (CAF aligned)
