@@ -13,7 +13,7 @@ I’m a Cloud Engineer with a strong focus on Microsoft Azure, working primarily
 - Azure Purview & Microsoft Defender integration
 - Improving large-scale Azure architectures and governance models
 
-### 👯 I’m looking to collaborate on
+### 🤝 I’m looking to collaborate on
 - Azure architecture patterns
 - Governance and security best practices
 - Infrastructure as Code (Bicep / Terraform)
